@@ -1,5 +1,5 @@
 /* HANDPHONE */
-@media all and (max-width: 670px) {
+@media (max-width: 670px) {
     .header-list{
         display:none;
     }
@@ -46,7 +46,7 @@
 }
 
 /* Tablet */
-@media all and (max-width: 1000px) {
+@media (max-width: 1000px) {
     .judul img{
         position:relative;
         height:200px;
