@@ -1,0 +1,78 @@
+/* HANDPHONE */
+@media all and (max-width: 670px) {
+    .header-list{
+        display:none;
+    }
+    .main{
+        text-align: left;
+    }
+    .main h1{
+        font-size: 27px;
+    }
+    .main p{
+        font-size: 20px;
+        
+    }
+    .judul img{
+        display: none;
+    }
+    .tulisan{
+        position: relative;
+        margin-left:3px;
+    }
+    .isi{
+        padding-bottom:100px;
+    }
+    .item{
+        padding-top:20px;
+        width:100%;
+        height:2100px;
+    }
+    .box{
+        width:100%;
+    }
+    .box-child{
+        width:100%;
+    }
+    .misi{
+        width:100%;
+        padding-bottom:10px;
+        
+    }
+    footer{
+        padding-top:1000px;
+        width:100%;
+    }
+}
+
+/* Tablet */
+@media all and (max-width: 1000px) {
+    .judul img{
+        position:relative;
+        height:200px;
+    }
+    .tulisan{
+        position: relative;
+        margin-left:3px;
+    }
+    .item{
+        padding-top:20px;
+        width:100%;
+        height:2100px;
+    }
+    .box{
+        width:100%;
+    }
+    .box-child{
+        width:100%;
+    }
+    .misi{
+        width:100%;
+        padding-bottom:10px;
+        
+    }
+    footer{
+        padding-top:1000px;
+        width:100%;
+    }
+}
